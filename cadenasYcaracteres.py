@@ -18,3 +18,5 @@ print(apellido)
 
 otroSlice = nombre[::2] # el tercer parametro define los saltos que va a tener
 print(otroSlice)
+nombreAlrevez = nombre[::-1]
+print(nombreAlrevez)
