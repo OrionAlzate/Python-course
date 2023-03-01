@@ -22,11 +22,10 @@ ensaladaDeFrutas = ["manzana", "mango", "banano", "yogurt", "queso", "helado", "
 
 
 # ---------------
-# Cambiar un valor de un index en una lista
+# Reemplazar un valor de un index en una lista
 ensaladaDeFrutas[3] = "granola"
 print(ensaladaDeFrutas)
 
-# Cambiar un valor de un rango en una lista
+# Reemplazar un valor de un rango en una lista
 ensaladaDeFrutas[2:4] = ["sandia","kiwi"] 
 print(ensaladaDeFrutas)
-
